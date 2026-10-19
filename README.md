@@ -125,7 +125,3 @@ The goal is to build a maintainable backend application while learning practical
 **Tanisha Jagdale**
 
 GitHub: [TanishaJagdale](https://github.com/TanishaJagdale)
-
----
-
-*Built incrementally as a hands-on Spring Boot learning and portfolio project.*
